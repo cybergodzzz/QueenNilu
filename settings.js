@@ -8,7 +8,7 @@
  | |__| | |_| |  __/  __/ | | |  | |\  | | | |_| |
   \___\_\\__,_|\___|\___|_| |_|  |_| \_|_|_|\__,_|
                                                   
-                                                  BY Janiya
+                                                  BY Cybertron Godzzz
 ===================================================================================================
 */
 
@@ -22,7 +22,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['13436003809'] 
+global.owner = ['918590745203'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -36,11 +36,11 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  'Cybertron Godzzz' 
 //👇 Sticker package name
 global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  'Cybertron Godzzz' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -53,9 +53,9 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
+global.BUTTON1_URL = 'https://github.com/cybertrongodzzz/'
 //👇 Button 2 url
-global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
+global.BUTTON2_URL = 'https://youtube.com/@user-nb8ky9yo8j'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["13436003809"]
+global.NO_BLOCK = ["918590745203"]
 
 
 
@@ -105,9 +105,9 @@ global.NO_BLOCK = ["13436003809"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['13436003809'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['13436003809'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['918590745203'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['918590745203'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Cybertron Godzzz' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
